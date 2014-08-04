@@ -1,3 +1,4 @@
-# empty yml to test with
-#
-# and another line
+machine:
+
+  timezone:
+    America/New_York
