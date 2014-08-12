@@ -2,3 +2,10 @@ machine:
 
   timezone:
     America/New_York
+
+
+deployment:
+  foo:
+    branch: master
+    commands:
+      - echo 123
