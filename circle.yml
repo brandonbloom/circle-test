@@ -5,7 +5,9 @@ machine:
 
 
 deployment:
-  foo:
+  prod:
     branch: master
+    heroku:
+      omg: 123
     commands:
       - echo 123
