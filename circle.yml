@@ -1,9 +1,6 @@
 machine:
-
   timezone:
     America/New_York
-
-
 deployment:
   prod:
     branch: master
