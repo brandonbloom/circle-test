@@ -1,13 +1,7 @@
 machine:
   timezone:
     America/New_York
-deployment:
-  prod:
-    branch: master
-    heroku:
-      omg: 123
-    commands:
-      - echo 123
+
 general:
   artifacts:
     - "build-blah/"
