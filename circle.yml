@@ -8,3 +8,8 @@ deployment:
       omg: 123
     commands:
       - echo 123
+general:
+  artifacts:
+    - "build-blah/"
+    - "~/home-blah"
+    - "file-blah"
