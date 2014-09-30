@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brandonbloom/circle-test/issues"
   },
-  "homepage": "https://github.com/brandonbloom/circle-test"
+  "homepage": "https://github.com/brandonbloom/circle-test",
+  "dependencies": {
+    "exec-sync": "^0.1.6"
+  }
 }
